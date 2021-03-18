@@ -1,0 +1,20 @@
+{
+    "special": [
+        {
+            "key": "HOOOMI",
+            "parser": "VAR"
+        },
+        {
+            "key": "PESTE",
+            "parser": "PRINT"
+        },
+        {
+            "key": "HISTORIA",
+            "parser": "LOOP"
+        },
+        {
+            "key": "END",
+            "parser": "FIM"
+        }
+    ]
+}
