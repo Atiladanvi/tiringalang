@@ -4,7 +4,7 @@ import Interpreter from './src/interpreter'
 import Console from './src/console'
 import interpreter from './src/interpreter'
 
-const script = fs.readFileSync(`${__dirname}/scripts/test.tiringa`, 'utf-8', (err, data) => {
+const script = fs.readFileSync(`${__dirname}/scripts/test.tg`, 'utf-8', (err, data) => {
     if (err) {
         Console.message('Erro ao ler script! ' + err)
         return;
