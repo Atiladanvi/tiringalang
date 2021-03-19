@@ -49,7 +49,8 @@ class Lexer {
                             this.inloop = true;
                         }
                         break;
-                    case "FIM":
+
+                    case "END":
                         if (this.inloop == true) {
                             if (this.fors[this.for_pointer - 1].step < this.fors[this.for_pointer - 1].counter) {
                                 this.fors[this.for_pointer - 1].step++;

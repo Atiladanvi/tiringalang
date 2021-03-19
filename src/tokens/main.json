@@ -9,12 +9,12 @@
             "parser": "PRINT"
         },
         {
-            "key": "HISTORIA",
+            "key": "REPETI",
             "parser": "LOOP"
         },
         {
-            "key": "END",
-            "parser": "FIM"
+            "key": "CABO",
+            "parser": "END"
         }
     ]
 }
