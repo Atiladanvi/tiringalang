@@ -2,6 +2,6 @@ OMI DIZ LOGO SA PESTE("Tiringa Lang") ;
 OMI DIZ LOGO SA PESTE("primeiros testes") ;
 OMI DIZ LOGO SA PESTE("1234567890") ;
 
-COMU E Q E A HISTORIA (10)
+OMI REPETI (10)
     OMI DIZ LOGO SA PESTE("teste loop") ;
-END ;
+CABO ; 
